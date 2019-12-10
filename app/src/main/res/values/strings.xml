@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_login_label_email">Email</string>
+    <string name="a_login_label_password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="mobile">Mobile</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="signup">SignUp</string>
+    <string name="a_registration_label_name">Name</string>
+    <string name="registrationactivity">Registration</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+</resources>
